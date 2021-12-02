@@ -18,7 +18,7 @@ Contents:
 
 The anomalous behavior of Hall effect in type-II superconductors refers to the change in sign of Hall voltage during a magnetic field sweep. This is not observed in normal metals, where the Hall field always points in the same direction.
 
-{% include image.html url="/imgs/hall_normal_metal.png" description="Hall field in a normal metal" %}
+{% include image.html url="/imgs/hall_normal_metal.png" description="Hall field in a normal metal" width="30%"%}
 
 <a name="magnetostriction-proj">
 </a>
