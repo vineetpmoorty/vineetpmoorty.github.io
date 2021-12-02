@@ -1,7 +1,7 @@
 ---
 title: Research
 permalink: /research/
-layout: default
+#layout: default
 ---
 
 Hello, here I talk about my research
