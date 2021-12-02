@@ -1,10 +1,9 @@
 ---
-#layout: default
-#permalink: /
+permalink: /
 title: Home
 ---
 
-**Page under construction, please check back in a few days. Thank you! (Dec 2nd 2021)**
+**Website under construction, please check back in a few days. Thank you! (Dec 2nd 2021)**
 
 Hi, I'm Vineet.
 
