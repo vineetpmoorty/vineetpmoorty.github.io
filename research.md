@@ -21,9 +21,9 @@ Research **3**, 033144 (Aug 2021) ([URL](https://journals.aps.org/prresearch/abs
 
 Anomalous Hall effect refers to the sign-change of Hall voltage in a type-II superconductor when the magnetic field is swept. First observed in the 1970s, there exist multiple competing theories today, seeking to explain what is responsible for the sign reversal. In this study, we numerically simulate modified time dependent Ginzburg-Landau (TDGL) equations that describe a superconductor, to study the Hall effect. We are especially interested in mesoscopic samples, where each dimension is of the order of coherence length. We find a novel relationship between the size of a mesoscopic superconductor and its Hall behavior, arising from vastly different magnetic vortex flow dynamics. Visualization of the vortex dynamics resulting from the simulation gives us a novel picture of the precise transient vortex flow responsible for the sign change behavior.
 
-<table style="margin-left:auto;margin-right:auto;width:80%">
+<table style="margin-left:auto;margin-right:auto;width:90%">
 <tr>
-<td width="50%"><img src="/imgs/hall_expt_ybco.png" width="100%"></td><td><img src="/imgs/vortex_simulated.png" width="100%"></td>
+<td width="60%"><img src="/imgs/hall_expt_ybco.png" width="100%"></td><td><img src="/imgs/vortex_simulated.png" width="100%"></td>
 </tr>
 <tr>
 <td>Fig: Anomalous Hall effect in YBCO (Source: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.41.11630">Hagen et al.</a>)</td><td>Fig: Simulation of magnetic vortices (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td>
