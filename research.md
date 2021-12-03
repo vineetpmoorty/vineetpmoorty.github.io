@@ -23,10 +23,10 @@ Anomalous Hall effect refers to the sign-change of Hall voltage in a type-II sup
 
 <table style="margin-left:auto;margin-right:auto;width:80%">
 <tr>
-<td width="60%"><img src="/imgs/hall_expt_ybco.png" width="100%"></td><td><img src="/imgs/vortex_simulated.png" width="100%"></td>
+<td width="50%"><img src="/imgs/hall_expt_ybco.png" width="100%"></td><td><img src="/imgs/vortex_simulated.png" width="100%"></td>
 </tr>
 <tr>
-<td>Fig: Anomalous Hall effect in YBCO</td><td>Fig: Simulation of magnetic vortices</td>
+<td>Fig: Anomalous Hall effect in YBCO (Source: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.41.11630">Hagen et al.</a>)</td><td>Fig: Simulation of magnetic vortices (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td>
 </tr>
 </table>
 
