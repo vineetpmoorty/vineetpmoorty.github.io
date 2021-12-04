@@ -34,7 +34,7 @@ We build on the original TDGL equations and incorporate additional frameworks to
 
 These additions entail a significant deviation from the original TDGL equations, and
 
-In the superconducting state, a superconductor is perfectly diamagnetic - any applied magnetic field is neutralized inside the bulk of the superconductor. However, Type-II superconductors have an intermediate "vortex" state where an applied magnetic field passes through the superconductor, but only in highly localized "vortices", as seen below. Further, the magnetic flux associated with these vortices is quantized by a constant, {% raw %}\(\Phi_0\){% endraw %} the superconducting flux quantum. The presence of these vortices highly influences the physics and properties of type-II superconductors, resulting in the observation of a wide range of interesting phenomena, including the anomalous Hall effect.
+In the superconducting state, a superconductor is perfectly diamagnetic - any applied magnetic field is neutralized inside the bulk of the superconductor. However, Type-II superconductors have an intermediate "vortex" state where an applied magnetic field passes through the superconductor, but only in highly localized "vortices", as seen below. Further, the magnetic flux associated with these vortices is quantized by a constant, \\(\\Phi_0\\) the superconducting flux quantum. The presence of these vortices highly influences the physics and properties of type-II superconductors, resulting in the observation of a wide range of interesting phenomena, including the anomalous Hall effect.
 
 One of the theories
 
