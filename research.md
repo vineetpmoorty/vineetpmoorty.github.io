@@ -2,10 +2,6 @@
 permalink: /research/
 title: Research
 ---
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
 Here I write about a few of my important research projects.
 
 Contents:
@@ -32,6 +28,10 @@ Anomalous Hall effect refers to the sign-change of Hall voltage in a type-II sup
 <td>Fig: Anomalous Hall effect in YBCO (Source: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.41.11630">Hagen et al.</a>)</td><td>Fig: Simulation of magnetic vortices (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td>
 </tr>
 </table>
+
+We build on the original TDGL equations and incorporate additional frameworks to (a) couple an externally applied current, (b) introduce normal state Hall effect by adding transverse conductivity and most importantly, (c) introduce flux-flow Hall effect, which is primarily responsible for the sign-change behavior.
+
+These additions entail a significant deviation from the original TDGL equations, and
 
 In the superconducting state, a superconductor is perfectly diamagnetic - any applied magnetic field is neutralized inside the bulk of the superconductor. However, Type-II superconductors have an intermediate "vortex" state where an applied magnetic field passes through the superconductor, but only in highly localized "vortices", as seen below. Further, the magnetic flux associated with these vortices is quantized by a constant, {% raw %}\(\Phi_0\){% endraw %} the superconducting flux quantum. The presence of these vortices highly influences the physics and properties of type-II superconductors, resulting in the observation of a wide range of interesting phenomena, including the anomalous Hall effect.
 
