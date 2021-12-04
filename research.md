@@ -39,7 +39,7 @@ In the superconducting state, a superconductor is perfectly diamagnetic - any ap
 One of the theories
 
 
-
+$$x_0 +y_0^2 = z^4 $$
 
 
 <a name="magnetostriction-proj">
