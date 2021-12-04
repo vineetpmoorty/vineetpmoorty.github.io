@@ -39,13 +39,13 @@ We find that at mesoscopic sizes, vortex flow dynamics are influenced greatly by
 <td width="50%"><img src="/imgs/vortex_flow.png" width="100%"></td><td><img src="/imgs/field_transient.png" width="100%"></td>
 </tr>
 <tr>
-<td>Fig 3: Vortex flow dynamics during the onset of normal state is predominantly responsible for anomalous Hall effect (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td><td>Fig 4: Resulting Hall field transients, when Hall effect is anomalous (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td>
+<td>Fig 3: Vortex flow dynamics during the onset of normal state is predominantly responsible for anomalous Hall effect (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td><td>Fig 4: Resulting Hall field transient, when Hall effect is anomalous (red line) (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td>
 </tr>
 </table>
 
 <a name="magnetostriction-proj">
 </a>
-magnetostriction<br>
+## Modelling and simulation of a pressure-imaging hybrid nanoscale device<br>
 Lots of text<br>
 Lots of text<br>
 Lots of text<br>
@@ -58,3 +58,4 @@ Lots of text<br>
 
 <a name="ml-proj">
 </a>
+## GPU-accelerated implementation of spectral feature selection algorithm for unsupervised learning
