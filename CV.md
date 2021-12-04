@@ -1,5 +1,5 @@
 ---
 title: CV
-permalink: /CV/
+permalink: /imgs/VineetPunyamoorty_Resume.pdf
 layout: default
 ---
