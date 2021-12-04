@@ -23,7 +23,7 @@ Anomalous Hall effect refers to the sign-change of Hall voltage in a type-II sup
 
 <table style="margin-left:auto;margin-right:auto;width:90%">
 <tr>
-<td width="60%"><img src="/imgs/hall_expt_ybco.png" width="100%"></td><td><img src="/imgs/vortex_simulated.png" width="100%"></td>
+<td width="60%"><img src="/imgs/hall_expt_ybco.png" width="100%"></td><td><img src="/imgs/vortex_simulated.png" width="90%"></td>
 </tr>
 <tr>
 <td>Fig 1: Anomalous Hall effect in YBCO (Source: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.41.11630">Hagen et al.</a>)</td><td>Fig 2: Simulation of magnetic vortices (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td>
@@ -36,7 +36,7 @@ We find that at mesoscopic sizes, vortex flow dynamics are influenced greatly by
 
 <table style="margin-left:auto;margin-right:auto;width:90%">
 <tr>
-<td width="60%"><img src="/imgs/vortex_flow.png" width="100%"></td><td><img src="/imgs/field_transient.png" width="100%"></td>
+<td width="40%"><img src="/imgs/vortex_flow.png" width="100%"></td><td><img src="/imgs/field_transient.png" width="100%"></td>
 </tr>
 <tr>
 <td>Fig 3: Vortex flow dynamics during the onset of normal state is predominantly responsible for anomalous Hall effect (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td><td>Fig 4: Resulting Hall field transients, when Hall effect is anomalous (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td>
