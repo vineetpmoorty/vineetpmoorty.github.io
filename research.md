@@ -2,6 +2,7 @@
 permalink: /research/
 title: Research
 layout: default
+order: 2
 ---
 Here I write about a few of my important research projects.
 
