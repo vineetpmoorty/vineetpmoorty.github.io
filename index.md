@@ -2,6 +2,7 @@
 permalink: /
 title: Home
 layout: default
+order: 1
 ---
 
 **Website under construction, please check back in a few days. Thank you! (Dec 2nd 2021)**

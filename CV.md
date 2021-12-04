@@ -2,6 +2,7 @@
 title: CV
 permalink: /CV/
 layout: default
+order: 3
 ---
 
 ### [Download (PDF, 2 pages)](/imgs/VineetPunyamoorty_Resume.pdf)
