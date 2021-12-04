@@ -14,7 +14,7 @@ Contents:
 
 <a name="superconductivity-proj">
 </a>
-### Size dependence of anomalous Hall effect in type-II superconductors
+## Size dependence of anomalous Hall effect in type-II superconductors
 
 **Publication**: [1] <ins>V. Punyamoorty</ins>, A. Malusare, S. Sengupta, S. Pujari and K. Saha, “Size dependence in flux-flow Hall effect using time-dependent Ginzburg-Landau equations”, Physical Review
 Research **3**, 033144 (Aug 2021) ([**URL**](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144) | [**arXiv**](https://arxiv.org/abs/2102.02467))
@@ -36,7 +36,7 @@ We find that at mesoscopic sizes, vortex flow dynamics are influenced greatly by
 
 <table style="margin-left:auto;margin-right:auto;width:90%">
 <tr>
-<td width="40%"><img src="/imgs/vortex_flow.png" width="100%"></td><td><img src="/imgs/field_transient.png" width="100%"></td>
+<td width="50%"><img src="/imgs/vortex_flow.png" width="100%"></td><td><img src="/imgs/field_transient.png" width="100%"></td>
 </tr>
 <tr>
 <td>Fig 3: Vortex flow dynamics during the onset of normal state is predominantly responsible for anomalous Hall effect (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td><td>Fig 4: Resulting Hall field transients, when Hall effect is anomalous (Source: <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033144">V. Punyamoorty et al. [1]</a>)</td>
