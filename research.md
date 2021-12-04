@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: Research
+layout: default
 ---
 Here I write about a few of my important research projects.
 
