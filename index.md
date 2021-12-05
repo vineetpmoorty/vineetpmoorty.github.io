@@ -20,4 +20,3 @@ Thank you!
 </td>
 </tr>
 </table>
-<img src="/imgs/VineetDP.jpg" width="30%">
