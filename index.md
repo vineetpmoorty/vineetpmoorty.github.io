@@ -7,7 +7,7 @@ order: 1
 
 **Website under construction, please check back in a few days. Thank you! (Dec 2nd 2021)**
 
-<p float="left">
+![Vineet](/imgs/vineetDP.jpg)
 Hi, I'm Vineet.
 
 I graduated from [IIT Bombay](https://www.iitb.ac.in) with a Bachelors and Masters (Dual Degree) in [Electrical Engineering](https://www.ee.iitb.ac.in). I am applying for PhD in ECE, for the term starting Fall 2022.
@@ -15,5 +15,3 @@ I graduated from [IIT Bombay](https://www.iitb.ac.in) with a Bachelors and Maste
 I am broadly interested in studying the physics of nanoscale systems and materials. For information on my past research projects, head over to the [research](/research/) page, or take a look at my [CV](/CV/).
 
 Thank you!
-<img src="/imgs/vineetDP.jpg" width="30%" />
-</p>
