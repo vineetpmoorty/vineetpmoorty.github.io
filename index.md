@@ -4,11 +4,6 @@ title: Home
 layout: default
 order: 1
 ---
-
-**Website under construction, please check back in a few days. Thank you! (Dec 2nd 2021)**
-
-
-
 <img src="/imgs/VineetDP.jpg" align="left" width="30%" style="padding-right:3%;padding-bottom:1%">
 Hi, I'm Vineet.
 

@@ -46,17 +46,36 @@ We find that at mesoscopic sizes, vortex flow dynamics are influenced greatly by
 
 <a name="magnetostriction-proj">
 </a>
-## Modelling and simulation of a pressure-imaging hybrid nanoscale device<br>
-Lots of text<br>
-Lots of text<br>
-Lots of text<br>
-Lots of text<br>
-Lots of text<br>
-Lots of text<br>
-Lots of text<br>
-Lots of text<br>
-Lots of text<br>
+## Modelling and simulation of a pressure-imaging hybrid nanoscale device
+
+**Publication**: [2] <ins>V. Punyamoorty</ins>, S. Dasika and K. Saha “Modelling of Magnetostriction for Stress-Imaging via Nitrogen Vacancy Centers in Diamond”, 2019 IEEE Research and Applications of Photonics in Defense Conference (RAPID) (19 - 21 Aug 2019, Miramar Beach, FL, USA) ([**URL**](https://ieeexplore.ieee.org/document/8864357))
+
+Acoustic pressure imaging has numerous applications in medicine, defence and other miscellaneous sensing applications. Nitrogen vacancy centers in diamond have emerged as an effective quantum system for highly sensitive magnetometry and quantum computing. NV centers also exhibit a direct coupling to pressure, but poor sensitivity prohibits measurements in the sub-MPa range. Cai et al. (HYPERLINK!) proposed a hybrid device consisting of a magnetostrictive layer on top of a diamond substrate consisting of NV centers. Magnetostriction refers to the transduction of changes in pressure to changes in magnetic fields. Due to the high sensitivity of NV center magnetometry (nT regime), this device promises to be highly sensitive for pressure imaging.
+
+<table style="margin-left:auto;margin-right:auto;width:90%">
+<tr>
+<td width="57.5%"><img src="/imgs/hybrid_device.png" width="100%"></td><td><img src="/imgs/energy_surface_diagram.png" width="100%"></td>
+</tr>
+<tr>
+<td>Fig 1: Hybrid device for pressure imaging, consisting of a magnetostrictive Terfenol-D layer and diamond with NV centers  (Source: <a href="https://ieeexplore.ieee.org/document/8864357">V. Punyamoorty et al. [2]</a>)</td><td>Fig 2: Numerical simulation of magnetostriction profile, by computing the energy surface diagram in 3D. (Source: <a href="https://ieeexplore.ieee.org/document/8864357">V. Punyamoorty et al. [2]</a>)</td>
+</tr>
+</table>
+
+First, we model and numerically simulate the magnetostriction profile of a Terfenol-D thin film, using anisotropic domain rotation model. This provides crucial information on the transduction profile of the film, which would help in reconstruction of pressure, from the measured magnetic field profile. This would also inform us about the linearity of this transduction, and any limits on this linearity. We find that under the domain rotation model, transduction is linear and highly localized in space, enabling us to reconstruct the pressure.
+
+Secondly, it is important to note that the aforementioned model only provides the magnetization of the Terfenol-D layer. This would be different from the magnetic field sensed by the NV centers, at a finite distance away. Thus, we consider a sample pressure profile, compute the resulting magnetization, and further the resulting magnetic field at <em>d</em> distance away (where <em>d</em> is the NV center depth). We observe the <em>reconstructability</em> of pressure, as a function of <em>d</em>, and notice that NV center depth highly influences the reconstructability of pressure profile (Fig. 4).
+
+<table style="margin-left:auto;margin-right:auto;width:90%">
+<tr>
+<td width="54%"><img src="/imgs/field_at_distance.png" width="100%"></td><td><img src="/imgs/error_profile.png" width="100%"></td>
+</tr>
+<tr>
+<td>Fig 3: Field as sensed by the NV centers at <em>d</em> distance away. At 100 nm, it can be seen that reconstructability of pressure deteriorates significantly. (Source: <a href="https://ieeexplore.ieee.org/document/8864357">V. Punyamoorty et al. [2]</a>)</td><td>Fig 4: We design an error metric for the reconstruction of pressure, and observe it as a function of <em>d</em>. (Source: <a href="https://ieeexplore.ieee.org/document/8864357">V. Punyamoorty et al. [2]</a>)</td>
+</tr>
+</table>
 
 <a name="ml-proj">
 </a>
 ## GPU-accelerated implementation of spectral feature selection algorithm for unsupervised learning
+
+To be added
