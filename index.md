@@ -4,7 +4,7 @@ title: Home
 layout: default
 order: 1
 ---
-<img src="/imgs/VineetDP.jpg" align="left" width="30%" style="padding-right:3%;padding-bottom:5%;padding-top:3%">
+<img src="/imgs/VineetDP.jpg" align="left" width="30%" style="padding-right:3%;padding-bottom:5%;padding-top:1%">
 Hi, I'm Vineet.
 
 I graduated from <a href="https://www.iitb.ac.in">IIT Bombay</a> with a Bachelors and Masters (Dual Degree) in <a href="https://www.ee.iitb.ac.in">Electrical Engineering</a>. I am applying for PhD in ECE, for the term starting Fall 2022.
