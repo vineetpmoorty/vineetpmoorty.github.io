@@ -8,10 +8,14 @@ profile:
   align: right
   image: vineet_photo.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Grissom Hall</p>
-    <p>315 N Grant St</p>
-    <p>West Lafayette, IN 47906</p>
+more_info: >
+  <p>West Lafayette, IN 47906 United States</p>
+  <script>
+    const user = "vineetpmoorty";
+    const domain = "gmail.com";
+    const link = `mailto:${user}@${domain}`;
+    document.getElementById("email").innerHTML = `<a href="${link}">${user}@${domain}</a>`;
+  </script>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
