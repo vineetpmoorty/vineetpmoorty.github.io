@@ -3,16 +3,22 @@ layout: about
 title: about
 permalink: /
 subtitle: >
+  <div style="font-size: 0.9em; color: #666;">🔊 <em>Vin-eet Poon-yuh-moor-tee</em></div><br>
   PhD Student in Machine Learning at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>
-  <div style="font-size: 0.9em; color: #666;">Pronounced: <em>Vin-eet Poon-yuh-moor-tee</em></div>
 
 profile:
   align: right
   image: vineet_photo.jpg
   image_circular: true # crops the image to make it circular
-more_info: >
-  <p>West Lafayette, IN 47906 United States</p>
-  <p><a href="mailto:vineetpmoorty&#64;gmail&#46;com">vineetpmoorty&#64;gmail&#46;com</a></p>
+  more_info: >
+    <p>West Lafayette, IN 47906 United States</p>
+    <p id="email"></p>
+    <script>
+      const user = "vineetpmoorty";
+      const domain = "gmail.com";
+      const link = `mailto:${user}@${domain}`;
+      document.getElementById("email").innerHTML = `<a href="${link}">${user}@${domain}</a>`;
+    </script>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
