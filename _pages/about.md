@@ -46,3 +46,8 @@ Hi, I'm Vineet. I am a PhD student in Machine Learning at <a href="https://engin
 I’ve worked on contrastive learning for time-series data, adaptive planning with diffusion models, and multimodal learning for cardiac assessment. I'm excited by the transformative potential of AI in healthcare, targeted drug design, scientific discovery and a wide range of other fields.
 
 Explore this site to learn more about my work, or take a look at my <a href="/cv/">resume</a>.
+
+<p>
+  <span style="color: red; font-weight: bold;">NEW</span>: I am actively seeking internship opportunities for <strong>Fall 2025</strong>, <strong>Spring 2026</strong>, and <strong>Summer 2026</strong>. I’m particularly interested in roles such as <strong>Machine Learning Intern</strong> or <strong>Applied Scientist Intern</strong>.  
+  If you're hiring or know of any relevant opportunities, please get in touch!
+</p>

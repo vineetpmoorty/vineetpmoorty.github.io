@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our diffusion-based collision avoidance work (<a href="https://arxiv.org/abs/2409.16950">ArXiv</a>) has been **accepted to IROS 2025**!
+Our work on **diffusion-based adaptive collision avoidance** (<a href="https://arxiv.org/abs/2409.16950">ArXiv</a>) has been **accepted to IROS 2025**!

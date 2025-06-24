@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-PrivateEdit, our privacy-preserving generative image editing framework has been assigned a **US Provisional Patent Application**!
+PrivateEdit, our **privacy-preserving generative image editing** framework has been assigned a **U.S. Provisional Patent Application**!
