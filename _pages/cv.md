@@ -14,4 +14,6 @@ toc:
   <a href="/assets/pdf/Resume_Vineet_Punyamoorty.pdf" download class="btn btn-primary">Download CV (PDF)</a>
 </div>
 
-<embed src="/assets/pdf/Resume_Vineet_Punyamoorty.pdf" type="application/pdf" width="100%" height="1000px" />
+<div style="background: white; padding: 10px;">
+  <embed src="/assets/pdf/Resume_Vineet_Punyamoorty.pdf" type="application/pdf" style="width: 100%; min-height: 100vh;" />
+</div>

@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <div style="font-size: 0.9em; color: #666;">🔊 <em>Vin-eet Poon-yuh-moor-tee</em></div><br>
-  PhD Student in Machine Learning at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>
+  <div style="font-size: 1em; color: #666;">🔊 <em>Vin-eet Poon-yuh-moor-tee</em></div><br>
 
 profile:
   align: right
