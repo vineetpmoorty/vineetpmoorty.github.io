@@ -6,12 +6,10 @@ nav: true
 nav_order: 2
 cv_pdf: Resume_Vineet_Punyamoorty.pdf
 description: Vineet Punyamoorty's Resume
-toc:
-  sidebar: left
 ---
 
 <div style="margin-bottom: 20px;">
-  <a href="/assets/pdf/Resume_Vineet_Punyamoorty.pdf" download class="btn btn-primary">Download CV (PDF)</a>
+  <a href="/assets/pdf/Resume_Vineet_Punyamoorty.pdf" download class="btn btn-primary">Download Resume (PDF)</a>
 </div>
 
 <canvas id="pdf-viewer" style="width: 100%; max-width: 800px;"></canvas>
