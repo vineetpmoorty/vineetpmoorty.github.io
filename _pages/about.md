@@ -18,9 +18,17 @@ profile:
       const link = `mailto:${user}@${domain}`;
       document.getElementById("email").innerHTML = `<a href="${link}">${user}@${domain}</a>`;
     </script>
+    <p>
+      <a href="https://github.com/vineetpmoorty" target="_blank">
+        <i class="fab fa-github"></i> GitHub
+      </a><br>
+      <a href="https://scholar.google.com/citations?user=JLH9zs8AAAAJ" target="_blank">
+        <i class="ai ai-google-scholar"></i> Google Scholar
+      </a>
+    </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -33,8 +41,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Vineet. I am a PhD student in Machine Learning at Purdue ECE. My research broadly focuses on **multimodal learning**, **computer vision**, and **generative models**.
+Hi, I'm Vineet. I am a PhD student in Machine Learning at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>. My research broadly focuses on **multimodal learning**, **computer vision**, and **generative models**.
 
 I’ve worked on contrastive learning for time-series data, adaptive planning with diffusion models, and multimodal learning for cardiac assessment. I'm excited by the transformative potential of AI in healthcare, targeted drug design, scientific discovery and a wide range of other fields.
 
-Feel free to explore this site to learn more about my work, or head to the <a href="/cv/">CV</a> page to view my resume.
+Explore this site to learn more about my work, or take a look at my <a href="/cv/">**resume**</a>.
