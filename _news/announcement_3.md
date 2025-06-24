@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: contrastive cross-modal learning for ecgs and cxrs
+date: 2025-05-02 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+PrivateEdit, our privacy-preserving generative image editing framework has been assigned a **US Provisional Patent Application**!
