@@ -38,16 +38,17 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-privateedit-our-privacy-preserving-generative-image-editing-framework-has-been-assigned-a-us-provisional-patent-application",
+          title: 'PrivateEdit, our privacy-preserving generative image editing framework has been assigned a US Provisional...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-diffusion-based-collision-avoidance-work-arxiv-has-been-accepted-to-iros-2025",
+          title: 'Our diffusion-based collision avoidance work (ArXiv) has been accepted to IROS 2025!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-work-on-contrastive-cross-modal-learning-for-ecgs-and-cxrs-is-out-on-arxiv",
+          title: 'Our work on contrastive cross-modal learning for ECGs and CXRs is out on...',
+          description: "",
+          section: "News",},{id: "news-our-diffusion-based-collision-avoidance-work-is-out-on-arxiv",
+          title: 'Our diffusion-based collision avoidance work is out on ArXiv!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
