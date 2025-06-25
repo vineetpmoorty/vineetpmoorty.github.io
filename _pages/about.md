@@ -78,6 +78,28 @@ Explore this site to learn more about my work, or take a look at my <a href="/cv
       <em>Under Review</em> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2506.19329">arXiv</a>
     </td>
   </tr>
+
+  <tr>
+    <td style="width: 150px;">
+      <img src="/assets/img/publication_3.gif" alt="CarE-X" style="width: 150px; border-radius: 8px;">
+    </td>
+    <td style="padding-left: 15px;">
+      <strong>CARE-X: ECG-based Prediction of Cardiomegaly Metrics through Alignment with X-rays</strong><br>
+      D. Tamboli, <u><strong>V. Punyamoorty</strong></u>, A. Malusare, V. Aggarwal<br>
+      <em>Under Review</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 150px;">
+      <img src="/assets/img/publication_4.png" alt="K-DREAM" style="width: 150px; border-radius: 8px;">
+    </td>
+    <td style="padding-left: 15px;">
+      <strong>Augmenting Generative Models with Biomedical Knowledge Graphs Improves Targeted Drug Discovery</strong><br>
+      A. Malusare, <u><strong>V. Punyamoorty</strong></u> V. Aggarwal<br>
+      <em>Under Review</em>
+    </td>
+  </tr>
 </table>
 
 <br><br>
