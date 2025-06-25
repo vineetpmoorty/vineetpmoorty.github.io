@@ -52,22 +52,19 @@ Explore this site to learn more about my work, or take a look at my <a href="/cv
   If you're hiring or know of any relevant opportunities, please get in touch!
 </p>
 
-
+<div style="clear: both;"></div>
 
 <h2>publications & pre-prints</h2>
 
-<div class="clearfix">
-  <table>
-    <tr>
-      <td style="width: 100px; vertical-align: top;">
-        <img src="/assets/img/vineet_photo.jpg" alt="Paper 1" style="width: 100px; border-radius: 8px;">
-      </td>
-      <td style="padding-left: 15px; vertical-align: top;">
-        <strong>Paper Title Goes Here</strong><br>
-        <strong>V. Punyamoorty</strong>, Author1, Author2, AuthorN<br>
-        <em>Conference Name, Year</em> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/xxxx.xxxxx">arXiv</a>
-      </td>
-    </tr>
-    <!-- Duplicate this <tr> block for more papers -->
-  </table>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100px; vertical-align: top;">
+      <img src="/assets/img/vineet_photo.jpg" alt="Paper 1" style="width: 100px; border-radius: 8px;">
+    </td>
+    <td style="padding-left: 15px; vertical-align: top;">
+      <strong>Paper Title Goes Here</strong><br>
+      <strong>V. Punyamoorty</strong>, Author1, Author2, AuthorN<br>
+      <em>Conference Name, Year</em> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/xxxx.xxxxx">arXiv</a>
+    </td>
+  </tr>
+</table>
