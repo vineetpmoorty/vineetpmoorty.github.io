@@ -56,12 +56,12 @@ Explore this site to learn more about my work, or take a look at my <a href="/cv
 
 <h2>publications & pre-prints</h2>
 <br>
-<table style="width: 100%;">
+<table style="width: 100%; vertical-align: middle;">
   <tr>
-    <td style="width: 100px; vertical-align: top;">
-      <img src="/assets/img/publication_1.gif" alt="Paper 1" style="width: 150px; border-radius: 8px;">
+    <td style="width: 150px;">
+      <img src="/assets/img/publication_1.gif" alt="Collision Avoidance" style="width: 150px; border-radius: 8px;">
     </td>
-    <td style="padding-left: 15px; vertical-align: top;">
+    <td style="padding-left: 15px;">
       <strong>Dynamic Obstacle Avoidance through Uncertainty-Based Adaptive Planning with Diffusion</strong><br>
       <u>V. Punyamoorty</u>, P. Jutras-Dube, R. Zhang, V. Aggarwal, D. Conover, A. Bera<br>
       <strong>IROS 2025</strong> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2409.16950">arXiv</a>
