@@ -55,15 +55,15 @@ Explore this site to learn more about my work, or take a look at my <a href="/cv
 <div style="clear: both;"></div>
 
 <h2>publications & pre-prints</h2>
-
+<br>
 <table style="width: 100%;">
   <tr>
     <td style="width: 100px; vertical-align: top;">
-      <img src="/assets/img/publication_1.gif" alt="Paper 1" style="width: 100px; border-radius: 8px;">
+      <img src="/assets/img/publication_1.gif" alt="Paper 1" style="width: 150px; border-radius: 8px;">
     </td>
     <td style="padding-left: 15px; vertical-align: top;">
       <strong>Dynamic Obstacle Avoidance through Uncertainty-Based Adaptive Planning with Diffusion</strong><br>
-      <strong>V. Punyamoorty</strong>, Pascal Jutras-Dube, Ruqi Zhang, Vaneet Aggarwal, Damon Conover, Aniket Bera<br>
+      <u>V. Punyamoorty</u>, P. Jutras-Dube, R. Zhang, V. Aggarwal, D. Conover, A. Bera<br>
       <strong>IROS 2025</strong> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2409.16950">arXiv</a>
     </td>
   </tr>
