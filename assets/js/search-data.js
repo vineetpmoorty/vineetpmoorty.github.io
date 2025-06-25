@@ -38,8 +38,8 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-our-work-on-diffusion-based-adaptive-collision-avoidance-is-out-on-arxiv",
-          title: 'Our work on diffusion-based adaptive collision avoidance is out on ArXiv!',
+      },{id: "news-our-work-on-diffusion-based-adaptive-collision-avoidance-is-now-on-arxiv",
+          title: 'Our work on diffusion-based adaptive collision avoidance is now on ArXiv!',
           description: "",
           section: "News",},{id: "news-privateedit-our-privacy-preserving-generative-image-editing-framework-has-been-assigned-a-u-s-provisional-patent-application",
           title: 'PrivateEdit, our privacy-preserving generative image editing framework has been assigned a U.S. Provisional...',
@@ -47,8 +47,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-on-diffusion-based-adaptive-collision-avoidance-arxiv-has-been-accepted-to-iros-2025",
           title: 'Our work on diffusion-based adaptive collision avoidance (ArXiv) has been accepted to IROS...',
           description: "",
-          section: "News",},{id: "news-our-work-on-contrastive-cross-modal-learning-for-ecgs-and-cxrs-is-out-on-arxiv",
-          title: 'Our work on contrastive cross-modal learning for ECGs and CXRs is out on...',
+          section: "News",},{id: "news-our-work-on-contrastive-cross-modal-learning-for-ecgs-and-cxrs-is-now-on-arxiv",
+          title: 'Our work on contrastive cross-modal learning for ECGs and CXRs is now on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
