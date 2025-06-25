@@ -63,8 +63,19 @@ Explore this site to learn more about my work, or take a look at my <a href="/cv
     </td>
     <td style="padding-left: 15px;">
       <strong>Dynamic Obstacle Avoidance through Uncertainty-Based Adaptive Planning with Diffusion</strong><br>
-      <u>V. Punyamoorty</u>, P. Jutras-Dube, R. Zhang, V. Aggarwal, D. Conover, A. Bera<br>
+      <u><strong>V. Punyamoorty</strong></u>, P. Jutras-Dube, R. Zhang, V. Aggarwal, D. Conover, A. Bera<br>
       <strong>IROS 2025</strong> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2409.16950">arXiv</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 150px;">
+      <img src="/assets/img/publication_2.gif" alt="CroMoTEX" style="width: 150px; border-radius: 8px;">
+    </td>
+    <td style="padding-left: 15px;">
+      <strong>Contrastive Cross-Modal Learning for Infusing Chest X-ray Knowledge into ECGs</strong><br>
+      <u><strong>V. Punyamoorty</strong></u>, A. Malusare, V. Aggarwal<br>
+      <em>Under Review</em> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2506.19329">arXiv</a>
     </td>
   </tr>
 </table>
