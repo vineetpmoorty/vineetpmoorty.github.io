@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on **contrastive cross-modal learning** for ECGs and CXRs is out on <a href="">ArXiv</a>!
+Our work on **contrastive cross-modal learning** for ECGs and CXRs is now on <a href="https://arxiv.org/abs/2506.19329">ArXiv</a>!

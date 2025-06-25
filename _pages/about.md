@@ -48,6 +48,22 @@ I’ve worked on contrastive learning for time-series data, adaptive planning wi
 Explore this site to learn more about my work, or take a look at my <a href="/cv/">resume</a>.
 
 <p>
-  <span style="color: red; font-weight: bold;">NEW</span>: I am actively seeking internship opportunities for <strong>Fall 2025</strong>, <strong>Spring 2026</strong>, and <strong>Summer 2026</strong>. I’m particularly interested in roles such as <strong>Machine Learning Intern</strong> or <strong>Applied Scientist Intern</strong>.  
+  <span style="color: red; font-weight: bold;">NEW</span>: I am actively seeking <strong>internship opportunities</strong> for <strong>Fall 2025</strong>, <strong>Spring 2026</strong>, and <strong>Summer 2026</strong>. I’m particularly interested in roles such as <strong>Machine Learning Intern</strong> or <strong>Applied Scientist Intern</strong>.  
   If you're hiring or know of any relevant opportunities, please get in touch!
 </p>
+
+<h2>publications & pre-prints</h2>
+
+<table>
+  <tr>
+    <td style="width: 100px; vertical-align: top;">
+      <img src="/assets/img/vineet_photo.jpg" alt="Paper 1" style="width: 100px; border-radius: 8px;">
+    </td>
+    <td style="padding-left: 15px; vertical-align: top;">
+      <strong>Paper Title Goes Here</strong><br>
+      <strong>V. Punyamoorty</strong>, Author1, Author2, AuthorN<br>
+      <em>Conference Name, Year</em> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/xxxx.xxxxx">arXiv</a>
+    </td>
+  </tr>
+  <!-- Duplicate this <tr> block for more papers -->
+</table>
