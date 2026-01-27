@@ -48,8 +48,7 @@ I’ve worked on contrastive learning for time-series data, adaptive planning wi
 Explore this site to learn more about my work, or take a look at my <a href="/cv/">resume</a>.
 
 <p>
-  <span style="color: red; font-weight: bold;">NEW</span>: I am actively seeking <strong>internship opportunities</strong> for <strong>Fall 2025</strong>, <strong>Spring 2026</strong>, and <strong>Summer 2026</strong>. I’m particularly interested in roles such as <strong>Machine Learning Intern</strong> or <strong>Applied Scientist Intern</strong>.  
-  If you're hiring or know of any relevant opportunities, please get in touch!
+  <span style="color: red; font-weight: bold;">NEW</span>: I am actively seeking <strong>internship opportunities</strong> in Software Engineering and Machine Learning for <strong>Summer 2026</strong>. If you're hiring or know of any relevant opportunities, please get in touch!
 </p>
 
 <div style="clear: both;"></div>
@@ -65,6 +64,17 @@ Explore this site to learn more about my work, or take a look at my <a href="/cv
       <strong>Dynamic Obstacle Avoidance through Uncertainty-Based Adaptive Planning with Diffusion</strong><br>
       <u><strong>V. Punyamoorty</strong></u>, P. Jutras-Dube, R. Zhang, V. Aggarwal, D. Conover, A. Bera<br>
       <strong>IROS 2025</strong> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2409.16950">arXiv</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 150px;">
+      <img src="/assets/img/publication_4.png" alt="K-DREAM" style="width: 150px; border-radius: 8px;">
+    </td>
+    <td style="padding-left: 15px;">
+      <strong>Augmenting Generative Models with Biomedical Knowledge Graphs Improves Targeted Drug Discovery</strong><br>
+      A. Malusare, <u><strong>V. Punyamoorty</strong></u> V. Aggarwal<br>
+      <strong>IEEE Transactions on Artificial Intelligence (2025)</strong> &nbsp;|&nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/11202948">URL</a>
     </td>
   </tr>
 
@@ -86,17 +96,6 @@ Explore this site to learn more about my work, or take a look at my <a href="/cv
     <td style="padding-left: 15px;">
       <strong>CARE-X: ECG-based Prediction of Cardiomegaly Metrics through Alignment with X-rays</strong><br>
       D. Tamboli, <u><strong>V. Punyamoorty</strong></u>, A. Malusare, V. Aggarwal<br>
-      <em>Under Review</em>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 150px;">
-      <img src="/assets/img/publication_4.png" alt="K-DREAM" style="width: 150px; border-radius: 8px;">
-    </td>
-    <td style="padding-left: 15px;">
-      <strong>Augmenting Generative Models with Biomedical Knowledge Graphs Improves Targeted Drug Discovery</strong><br>
-      A. Malusare, <u><strong>V. Punyamoorty</strong></u> V. Aggarwal<br>
       <em>Under Review</em>
     </td>
   </tr>
