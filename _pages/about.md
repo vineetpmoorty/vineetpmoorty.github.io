@@ -24,7 +24,7 @@ profile:
       </a><br>
       <a href="https://scholar.google.com/citations?user=JLH9zs8AAAAJ" target="_blank">
         <i class="ai ai-google-scholar"></i> Google Scholar
-      </a>
+      </a><br>
       <a href="https://www.linkedin.com/in/vineetpmoorty/" target="_blank">
         <i class="fab fa-linkedin"></i> LinkedIn
       </a>
