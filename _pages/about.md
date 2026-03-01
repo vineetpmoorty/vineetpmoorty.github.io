@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <div style="font-size: 1em; color: #666;">🔊 <em>Vin-eet Poon-yuh-moor-tee</em></div><br>
+  <div style="font-size: 1em; color: #666;">🔊 <em>Vin-eet Poon-yuh-moor-thee</em></div><br>
 
 profile:
   align: right
@@ -43,13 +43,13 @@ latest_posts:
 
 Hi, I'm Vineet. I am a PhD student in Machine Learning at <a href="https://engineering.purdue.edu/ECE">Purdue ECE</a>. My research broadly focuses on **multimodal learning**, **computer vision**, and **generative models**.
 
-I’ve worked on contrastive learning for time-series data, adaptive planning with diffusion models, and multimodal learning for cardiac assessment. I'm excited by the transformative potential of AI in healthcare, targeted drug design, scientific discovery and a wide range of other fields.
+I’ve worked on contrastive learning for time-series data, adaptive planning with diffusion models, and cross-modal knowledge distillation for cardiac assessment. I'm excited by the transformative potential of AI in healthcare, targeted drug design, scientific discovery and a wide range of other fields.
 
 Explore this site to learn more about my work, or take a look at my <a href="/cv/">resume</a>.
 
-<p>
+<!-- <p>
   <span style="color: red; font-weight: bold;">NEW</span>: I am actively seeking <strong>internship opportunities</strong> in Software Engineering and Machine Learning for <strong>Summer 2026</strong>. If you're hiring or know of any relevant opportunities, please get in touch!
-</p>
+</p> -->
 
 <div style="clear: both;"></div>
 
@@ -63,7 +63,7 @@ Explore this site to learn more about my work, or take a look at my <a href="/cv
     <td style="padding-left: 15px;">
       <strong>Dynamic Obstacle Avoidance through Uncertainty-Based Adaptive Planning with Diffusion</strong><br>
       <u><strong>V. Punyamoorty</strong></u>, P. Jutras-Dube, R. Zhang, V. Aggarwal, D. Conover, A. Bera<br>
-      <strong>IROS 2025</strong> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2409.16950">arXiv</a>
+      <strong>IROS 2025</strong> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2409.16950">arXiv</a> &nbsp;|&nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/11246234">URL</a>
     </td>
   </tr>
 
